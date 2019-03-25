@@ -12,8 +12,8 @@
     "name": "typicode"
   },
   "tree": {
-    code: 0,
-    data: [
+    "code": 0,
+    "data": [
       { "id":1, "pId":0, "name":"父节点1", "open":true},
       { "id":11, "pId":1, "name":"父节点11"},
       { "id":111, "pId":11, "name":"叶子节点111"},
