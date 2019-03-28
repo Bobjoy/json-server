@@ -45,7 +45,7 @@
       { "id":3, "pId":0, "name":"父节点3", "isParent":true}
     ]
   },
-  table: {
+  "table": {
     "code": 0,
     "page": {
       "currPage": 1,
