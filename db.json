@@ -44,5 +44,66 @@
       { "id":234, "pId":23, "name":"叶子节点234"},
       { "id":3, "pId":0, "name":"父节点3", "isParent":true}
     ]
+  },
+  table: {
+    "code": 0,
+    "page": {
+      "currPage": 1,
+      "list": [
+        {
+          "id": 10000,
+          "cname": "企业基本信息表",
+          "ename": "zs"
+        },
+        {
+          "id": 10001,
+          "cname": "企业资质表",
+          "ename": "jyfs"
+        },
+        {
+          "id": 10002,
+          "cname": "年检信息表",
+          "ename": "scdz"
+        },
+        {
+          "id": 10003,
+          "cname": "设备信息表",
+          "ename": "sj"
+        },
+        {
+          "id": 10004,
+          "cname": "登记记录表",
+          "ename": "lx"
+        },
+        {
+          "id": 10005,
+          "cname": "设备检查表",
+          "ename": "scdwmc"
+        },
+        {
+          "id": 10006,
+          "cname": "人员信息表",
+          "ename": "tyshxydm"
+        },
+        {
+          "id": 10007,
+          "cname": "人员资质表",
+          "ename": "jcr"
+        },
+        {
+          "id": 10008,
+          "cname": "检查机构信息表",
+          "ename": "jcsj"
+        },
+        {
+          "id": 10009,
+          "cname": "设备分布情况表",
+          "ename": "jczt"
+        }
+      ],
+      "pageSize": 10,
+      "totalCount": 10,
+      "totalPage": 1
+    }
   }
 }
