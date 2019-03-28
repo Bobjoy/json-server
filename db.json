@@ -105,5 +105,86 @@
       "totalCount": 10,
       "totalPage": 1
     }
+  },
+  "fields": {
+    "code": 0,
+    "page": {
+      "currPage": 1,
+      "list": [
+        {
+          "id": 10000,
+          "cname": "住所",
+          "ename": "zs",
+          "ftype": "varchar2",
+          "flen": 50
+        },
+        {
+          "id": 10001,
+          "cname": "检验方式",
+          "ename": "jyfs",
+          "ftype": "char",
+          "flen": 50
+        },
+        {
+          "id": 10002,
+          "cname": "生产地址",
+          "ename": "scdz",
+          "ftype": "varchar2",
+          "flen": 200
+        },
+        {
+          "id": 10003,
+          "cname": "添加时间",
+          "ename": "sj",
+          "ftype": "date",
+          "flen": 0
+        },
+        {
+          "id": 10004,
+          "cname": "类型",
+          "ename": "lx",
+          "ftype": "char",
+          "flen": 1
+        },
+        {
+          "id": 10005,
+          "cname": "生产单位名称",
+          "ename": "scdwmc",
+          "ftype": "varchar2",
+          "flen": 50
+        },
+        {
+          "id": 10006,
+          "cname": "统一社会信用代码",
+          "ename": "tyshxydm",
+          "ftype": "varchar2",
+          "flen": 50
+        },
+        {
+          "id": 10007,
+          "cname": "检查人",
+          "ename": "jcr",
+          "ftype": "varchar2",
+          "flen": 50
+        },
+        {
+          "id": 10008,
+          "cname": "检查时间",
+          "ename": "jcsj",
+          "ftype": "date",
+          "flen": 0
+        },
+        {
+          "id": 10009,
+          "cname": "检查状态",
+          "ename": "jczt",
+          "ftype": "varchar2",
+          "flen": 50
+        }
+      ],
+      "pageSize": 10,
+      "totalCount": 10,
+      "totalPage": 1
+    }
   }
 }
